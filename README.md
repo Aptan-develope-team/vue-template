@@ -1,4 +1,4 @@
-# petera
+# Vue-template
 
 > A Vue.js project
 
